@@ -13,7 +13,7 @@
 The SeZaMo RSS Feeder plugin adds RSS feeder functionalities to Wolf CMS.
 
 Dependencies:
-    - Wolf 0.6.0+
+    - Wolf 0.7.0+
 
 == Installation ==
 

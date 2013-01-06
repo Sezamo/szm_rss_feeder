@@ -2,7 +2,7 @@
  * SeZaMo RSS feeder plugin for Wolf CMS
  * Adds an RSS feeder to your CMS.
  * 
- * Download site <http://www.sezamo.net/articles/plugins/tagger.xhtml>
+ * Download site <http://www.sezamo.net/writings/the-rss-feeder-plugin-for-wolfcms.html>
  * Copyright (C) 2011 Maurizio Serrazanetti <info@sezamo.net>
  * 
  * Licensed under GPLv3 (http://www.gnu.org/licenses/gpl.html) license.
